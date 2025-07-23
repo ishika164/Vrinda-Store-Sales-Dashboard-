@@ -14,7 +14,7 @@ This dashboard was created to support decision-making through interactive Excel 
 - Sales distribution by gender
 - Order Status Overview (Delivered, Cancelled, Returned, Refunded)
 - Channel-wise performance (Amazon, Flipkart, Myntra, etc.)
-- Category & Month slicers for interactivity
+- Category & Month slicers for interactivity.
 
 ---
 
