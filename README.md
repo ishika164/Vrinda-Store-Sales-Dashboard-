@@ -43,7 +43,6 @@ This dashboard was created to support decision-making through interactive Excel 
 
 ## 👩‍💻 Author
 
-**Ishika Chauhan**  
-B.Tech (AI & Data Science), Class of 2025  
+**Ishika Chauhan**   
 [LinkedIn Profile](https://www.linkedin.com/in/ishika-chauhan-059345281)
 
