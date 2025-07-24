@@ -7,6 +7,13 @@ This dashboard was created to support decision-making through interactive Excel 
 
 ---
 
+## 🎗**Dashboard Screenshot :**
+
+
+
+<img width="1920" height="831" alt="Vrinda sales dashboard screenshot" src="https://github.com/user-attachments/assets/2e9fb0fc-2969-4463-a02d-55f3d07c2529" />
+
+
 ## 📊 Dashboard Features:
 - Orders vs Sales monthly comparison
 - Orders breakdown by age and gender
