@@ -1,5 +1,4 @@
 # Vrinda-Store-Sales-Dashboard-
-📊Interactive Excel Dashboard for Vrinda Store Sales 2022 | Visual Analytics &amp; KPIs
 
 🎯 **Objective**  
 Vrinda Store wants to create an **Annual Sales Report for 2022** so that the business can better understand its **Customer Behavior**, analyze trends, and plan strategies to **Grow more sales in 2023**.  
